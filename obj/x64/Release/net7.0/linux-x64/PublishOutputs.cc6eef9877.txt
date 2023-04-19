@@ -1,0 +1,3 @@
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Release\net7.0\publish\linux-64\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Release\net7.0\publish\linux-64\RallyPlugin.deps.json
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Release\net7.0\publish\linux-64\RallyPlugin.runtimeconfig.json

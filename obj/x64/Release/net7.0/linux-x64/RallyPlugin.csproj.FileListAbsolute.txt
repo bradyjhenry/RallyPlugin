@@ -1,0 +1,12 @@
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.csproj.AssemblyReference.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.AssemblyInfoInputs.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.AssemblyInfo.cs
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.csproj.CoreCompileInputs.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\x64\Release\net7.0\linux-x64\RallyPlugin.deps.json
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\x64\Release\net7.0\linux-x64\RallyPlugin.runtimeconfig.json
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\x64\Release\net7.0\linux-x64\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\refint\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\RallyPlugin.genruntimeconfig.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\x64\Release\net7.0\linux-x64\ref\RallyPlugin.dll

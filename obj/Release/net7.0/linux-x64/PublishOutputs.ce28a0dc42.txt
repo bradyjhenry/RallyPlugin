@@ -1,0 +1,3 @@
+C:\Users\me\OneDrive\Desktop\Plugin\RallyPlugin.dll
+C:\Users\me\OneDrive\Desktop\Plugin\RallyPlugin.deps.json
+C:\Users\me\OneDrive\Desktop\Plugin\RallyPlugin.runtimeconfig.json

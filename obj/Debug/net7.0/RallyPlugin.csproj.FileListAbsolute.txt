@@ -1,0 +1,12 @@
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.csproj.AssemblyReference.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.AssemblyInfoInputs.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.AssemblyInfo.cs
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.csproj.CoreCompileInputs.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Debug\net7.0\RallyPlugin.deps.json
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Debug\net7.0\RallyPlugin.runtimeconfig.json
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\bin\Debug\net7.0\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\refint\RallyPlugin.dll
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\RallyPlugin.genruntimeconfig.cache
+C:\Users\me\OneDrive\Documents\Github\AssettoServer\RallyPlugin\obj\Debug\net7.0\ref\RallyPlugin.dll
